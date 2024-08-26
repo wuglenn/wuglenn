@@ -2,9 +2,10 @@
   hola! I'm Glenn <br>
 </strong>
 <p>
-  I'm a student interested in the field of machine learning. Check out my projects!<br><br>
+  I'm a student interested in the field of machine learning. Check out my projects!<br>
 </p>
 <details>
+  <summary><i>cats!</i></summary>
   <p align="center">
     <img src="https://i.redd.it/3w2il6vujhv21.gif" alt="cat"> <br>
   </p>
