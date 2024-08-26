@@ -1,8 +1,8 @@
-<img src="https://avatars.githubusercontent.com/u/22255356?v=4" width="100px" alt="👋">
-<p>
+<strong>
   hola! I'm Glenn <br>
+</strong>
+<p>
   I'm a student interested in the field of machine learning. Check out my projects!<br><br>
-
 </p>
 <details>
   <p align="center">
