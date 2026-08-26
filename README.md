@@ -3,7 +3,7 @@
 </strong>
 <br>
 <p>
-  deep learning enjoyer! i love blackboxes and shaping unexplainable ai :) <br>i enjoy working on interesting projects, feel free to reach out with ideas. i'm open to collaborating!<br><br>glennwuwu[at]gmail[dot]com
+  deep learning enjoyer :) <br>i enjoy working on interesting projects, feel free to reach out with ideas. i'm open to collaborating!<br><br>glennwuwu[at]gmail[dot]com
 </p>
 <details>
   <summary><i>cats!</i></summary>
